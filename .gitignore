@@ -1,5 +1,4 @@
-*
-!PKGBUILD
-!.SRCINFO
-!.gitignore
-!bookstack.conf
+bookstack-*.tar.zst
+bookstack-*.tar.gz
+pkg/
+src/
